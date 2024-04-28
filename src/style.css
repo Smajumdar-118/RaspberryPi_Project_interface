@@ -62,4 +62,19 @@
   .download-button:hover {
     background-color: #45a049;
   }
+  .logo-container {
+    position: absolute;
+    top: 20px;
+    left: 20px;
+  }
+  
+  .logo {
+    width: 100px; /* Adjust width as needed */
+    height: auto; /* Maintain aspect ratio */
+  }
+  
+
+  
+
+
   
